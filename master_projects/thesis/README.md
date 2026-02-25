@@ -11,3 +11,5 @@ and to check if small anatomical changes similar to those actually occurring in 
 -**Notebooks/**: this folder contains some of the Jupyter Notebooks I used to analyze the data
 
 -**Outputs/**: this folder contains a few of the plots produced in the notebooks
+
+-**designs/**: this folder contains some of the designs I used
