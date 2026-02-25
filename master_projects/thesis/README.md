@@ -1,4 +1,4 @@
-#### Here are the main scripts I used to analyze the data I gathered to write my Master's Thesis, mostly consisting of the depth-dose curves of proton beams at different energies and CTs of 3D-printed phantoms I designeed. I included some of those designs, as well as some of the results I obtained.
+#### Here are the main scripts I used to analyze the data I gathered to write my Master's Thesis (Sommersemester 2025), mostly consisting of the depth-dose curves of proton beams at different energies and CTs of 3D-printed phantoms I designeed. I included some of those designs, as well as some of the results I obtained.
 
 ## Summary
 The goal of my Master's Thesis (titled _"Design and development of an animal phantom for proton therapy simulations and physical measurements"_) was to design and build an anatomically accurate phantom via 3D printing
