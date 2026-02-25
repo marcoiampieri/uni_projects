@@ -1,4 +1,4 @@
-### This folder contains some of the projects I worked on during my semester in Dortmund
+### This folder contains some of the projects I worked on during my first semester in Dortmund (Sommersemester 2024)
 
 ## Projects:
 -**ICeCube_data_analysis/**: for this project, a colleague of mine and I were tasked to train three different ML algorithms using a labeled dataset from the _IceCube_ experiment, in order to see which one
