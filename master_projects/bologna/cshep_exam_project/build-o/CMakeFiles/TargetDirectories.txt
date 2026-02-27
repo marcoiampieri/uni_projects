@@ -1,0 +1,4 @@
+/home/marco/Bologna/exam_project/build-o/CMakeFiles/mandelbrot.dir
+/home/marco/Bologna/exam_project/build-o/CMakeFiles/mandelbrot_par.dir
+/home/marco/Bologna/exam_project/build-o/CMakeFiles/edit_cache.dir
+/home/marco/Bologna/exam_project/build-o/CMakeFiles/rebuild_cache.dir
