@@ -1,5 +1,5 @@
 ### As final examination for the _Preparation for scientific research_ course I had to choose a topic, ideally one related to my Master's thesis, and show what conducting scientific research on it would look like.   
-The code used for this project was to be submitted, along with a short (1-2 pages) report.
+### The code used for this project was to be submitted, along with a short (1-2 pages) report.
 
 ## Description:
 The preliminary idea for my Master's Thesis topic was to build an animal phantom to which anatomical changes could be applied and to measure/visualize those changes using Proton Radiography.    
