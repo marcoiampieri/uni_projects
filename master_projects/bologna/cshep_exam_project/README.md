@@ -4,7 +4,7 @@
 - Writing a program that draws the Mandelbrot set and saves it as a _.png_ output
 - Implementing parallel computing to achieve the same result
 - Check the performance of the parallel computing version for different _grain_size_ values
-- Uploading all the code on a Virtual Machine running on Googlge Cloud and granting the professors access to it via SSH.  
+- Uploading all the code on a Virtual Machine running on Google Cloud and granting the professors access to it via SSH.  
 
 ## Content:
 - **build-o/**: release build created via CMake
