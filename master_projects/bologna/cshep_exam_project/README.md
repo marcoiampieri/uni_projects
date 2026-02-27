@@ -1,4 +1,4 @@
-### As a final examination project, we were tasked to write a program to graphically represent the Mandelbrot set, applying the concepts that were taught to us in both the coding and cloud coumputing lectures 
+### As a final examination project, we were tasked to write a program to graphically represent the Mandelbrot set, applying the concepts that were taught to us in both the C++ and cloud coumputing lectures 
 
 ## Tasks:
 - Writing a program that draws the Mandelbrot set and saves it as a _.png_ output
