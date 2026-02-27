@@ -1,4 +1,4 @@
-### As a final examination project for our Computer Science for High Energy Physics course, we were tasked to write a program to graphically represent the Mandelbrot set, applying the concepts that were taught to us in both the C++ and cloud coumputing lectures which constituted the course
+### As a final examination project for our Computer Science for High Energy Physics course, we were tasked to write a program to graphically represent the Mandelbrot set, applying the concepts that were taught to us in both the C++ and cloud coumputing lectures thate made up the course
 
 ## Tasks:
 - Writing a program that draws the Mandelbrot set and saves it as a _.png_ output
