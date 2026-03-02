@@ -1,0 +1,4 @@
+Fit function is like : I = I0(exp(v/etaV)-1) 
+I0=0.00949293+/-0.00278824mA   etaV=59.8862+/-3.63879 mV
+Chisqr error correction I0=0.00949293+/-0.000356877mA   etaV=59.8862+/-0.465743 mV
+Linear fit method results I0=0.00740454+/-0.000253111mA   etaV=57.1155+/-1.41274 mV
