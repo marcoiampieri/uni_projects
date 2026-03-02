@@ -1,7 +1,7 @@
 ### This folder contains a project that was evaluated as part of the _Electromagnetism and Optics laboratory_ course, during the $2^{nd}$ year of the _Physics_ Bachelor's programme in Bologna.  
 ### The goal was to simulate the decaying processes of different particles, like the ones that occur during high energy experiments at particle accelerators, using _C++_ scripts to create the simulation and _ROOT_ for analysis and visualisation.
 
-## Tasks:
+# Tasks:
 1) Create $10^5$ events of 100 particles each, with the particle types following this distribution:
    * $\pi^+$: 40%
    * $\pi^-$: 40%
