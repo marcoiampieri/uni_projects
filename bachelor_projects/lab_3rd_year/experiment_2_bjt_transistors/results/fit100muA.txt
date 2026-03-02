@@ -1,0 +1,3 @@
+Linear fit method results:
+ VA=-17539.6+/-333.363mV   VCE/IC=1358.98+/-24.1724 V/A
+g=0.000735846+/-1.30886e-05
