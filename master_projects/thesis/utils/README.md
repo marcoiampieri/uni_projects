@@ -1,4 +1,4 @@
-## Structure:
+## Structure
 
 -**CT_analysys.py**: all the functions needed to load a set of _.dcm_ files (_load_scan(), apply_window(), get_hounsfield_volume()_), visualize them (_interactive_viewer(), multi_planar_reformation()_) and 
 eventually scale them (_scaled_images(), square_display()_)
