@@ -1,7 +1,7 @@
 ### This folder contains a project that was evaluated as part of the _Electromagnetism and Optics laboratory_ course, during the $2^{nd}$ year of the _Physics_ Bachelor's programme in Bologna.  
 ### The goal was to simulate the decaying processes of different particles, like the ones that occur during high energy experiments at particle accelerators, using _C++_ scripts to create the simulation and _ROOT_ for analysis and visualisation.
 
-# Tasks:
+# Tasks
 1) Create $10^5$ events of 100 particles each, with the particle types following this distribution:
    * $\pi^+$: 40%
    * $\pi^-$: 40%
@@ -23,7 +23,7 @@
    * Difference between combinations of same and opposite charges (counting only Pions and Kaons)
    * Difference between combinations of same and opposite charges (counting all particles)
 
-## Content:
+## Content
 - _**Particle.hpp**_ and _**Particle.cpp**_: here the _Particle_ class and all of its methods, i.e. the constructors, _getters_, index setters (to assign a type to a particle), along with the methods needed to boost the particles and make them decay, are defined
 - _**ParticleType.hpp**_ and _**ParticleType.cpp**_: here the _ParticleType_ class and its _getters_ are defined
 - _**ResonanceType.hpp**_ and _**ResonanceType.cpp**_: here the _ResonanceType_ class and its methods (_GetWidth() and Print()_) are defined
