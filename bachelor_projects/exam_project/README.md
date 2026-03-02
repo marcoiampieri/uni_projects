@@ -1,12 +1,12 @@
 ### This project was the focus of the final examination for our C++ course in Bologna
 
-# Tasks:
+# Tasks
 
 - Write a code that correctly simulates the SIR (Susceptible, Infected, Removed) model, either by applying the model's equations or by implementing graphical representations
 - Use the concepts shown during the course of the lectures
 - (Optional) Implement extra features like lockdowns, vaccines, etc.
 
-## Content:
+## Content
 
 - **pandemic.hpp**: here the _Person_ type and the _World_ class are declared, which are going to be the main components to build the initial representation grid,
    along with the _infection_, _removal_ and _spread_ functions, which change the structure of the grid with each passing "day"
