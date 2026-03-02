@@ -1,12 +1,12 @@
 ### As a final examination project for our Computer Science for High Energy Physics course, we were tasked to write a program to graphically represent the Mandelbrot set, applying the concepts that were taught to us in both the C++ and cloud coumputing lectures that made up the course
 
-## Tasks:
+## Tasks
 - Writing a program that draws the Mandelbrot set and saves it as a _.png_ output
 - Implementing parallel computing to achieve the same result
 - Check the performance of the parallel computing version for different _grain_size_ values
 - Uploading all the code on a Virtual Machine running on Google Cloud and granting the professors access to it via SSH.  
 
-## Content:
+## Content
 - **build-o/**: release build created via CMake
 - **build-d/**: developer build created via CMake
 - **main.cpp**: "standard" code to draw the Mandelbrot set
