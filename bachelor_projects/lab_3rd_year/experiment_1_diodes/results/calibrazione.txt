@@ -1,0 +1,2 @@
+Fit function is like : y = mx +q 
+q=0.584286+/-2.43181mV   m=1.03571+/-0.0304588
