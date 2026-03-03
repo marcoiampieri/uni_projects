@@ -14,6 +14,7 @@
   * bologna
     - cshep_exam_project
     - prep_for_research
+  * clermont-ferrand
   * dortmund_projects
     - IceCube_data_analysis
     - Scintillating_Fibers_analysis
