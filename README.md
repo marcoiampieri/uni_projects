@@ -15,6 +15,8 @@
     - cshep_exam_project
     - prep_for_research
   * clermont-ferrand
+    - ML_course
+    - statistics_course
   * dortmund_projects
     - IceCube_data_analysis
     - Scintillating_Fibers_analysis
