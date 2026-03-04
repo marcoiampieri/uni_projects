@@ -2,7 +2,7 @@
 
 ### Note: some of the data used for these projects is missing due to its excessive size
 
-## Projects:
+## Structure
 -**ICeCube_data_analysis/**: for this project, a colleague of mine and I were tasked to train three different ML algorithms using a labeled dataset from the _IceCube_ experiment, in order to see which one
 was the best at predicting whether the neutrinos detected by the experiment were cosmic neutrinos or not
 
