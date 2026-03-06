@@ -1,4 +1,4 @@
-### This folder contains the notebooks of the exercises from the _Machine Learning_ course's hands-on sessions.
+### This folder contains the notebooks for the _Machine Learning_ course's hands-on sessions exercises.
 
 ### The exercises' tasks and results are fully explained in the respective notebooks. 
 
