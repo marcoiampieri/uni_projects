@@ -5,7 +5,8 @@
 ## Summary
 The goal of my Master's Thesis (titled _"Design and development of an animal phantom for proton therapy simulations and physical measurements"_) was to design and build an anatomically accurate phantom via 3D printing
 and to check if small anatomical changes similar to those actually occurring in adaptive proton therapy could be measured with the available instrumentation.
-## Structure
+
+## Content
 -**data/**: this folder contains some simulated data, in the same format as what was actually used for the thesis
 
 -**utils/**: this folder contains all the functions used to analyze both the CT scans (_CT_analysis.py_) and the data related to the proton range measurements (_my_analysis_functions.py_)
