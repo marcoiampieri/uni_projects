@@ -2,7 +2,7 @@
 
 ## Structure
 
-- **bologna/**: $3^{rd}$ semester projects
-- **clermont-ferrand/**: $1^{st}$ semester projects
-- **dortmund_projects/**: $2^{nd}$ semester projects
-- **thesis/**: $4^{th}$ semester projects
+- **bologna/**: projects from the $3^{rd}$ semester
+- **clermont-ferrand/**: projects from the $1^{st}$ semester  
+- **dortmund_projects/**: projects from the $2^{nd}$ semester 
+- **thesis/**: projects from the $4^{th}$ semester 
