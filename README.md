@@ -32,10 +32,11 @@ Some of the files and pieces of code (especially those created during the years 
 
 As of March $23^{rd}$ 2026, I'm still in the process of sorting and uploading my projects, mainly:
 - [x] Update the bachelor's labs' README files 
-- [x] Add some of the data and outputs for said labs
-- [ ] Update the clermont-ferrand/ folder
+- [x] Add some of the data and outputs for the bachelor's labs
+- [x] Update the clermont-ferrand/ folder
 - [x] Update the README file for the master_project/ folder
 - [x] Update the README files for the clermont-ferrand/ folder
 - [x] Add the Bologna semester root folder
 - [x] Update the Bologna semester root folder
+- [ ] Update the Bologna semester root folder README file
 
