@@ -3,6 +3,6 @@
 ## Structure
 
 - **hands-on_1**: "RooFit"
-- **hands-on_2**:
+- **hands-on_2**: "RooFit Workspace, Working with Likelihood, Fitting Errors"
 - **hands-on_3**:
 - **hands-on_4**:
