@@ -2,7 +2,7 @@
 
 ## Structure
 
-- **hands-on_1**: ""
+- **hands-on_1**: "RooFit"
 - **hands-on_2**:
 - **hands-on_3**:
 - **hands-on_4**:
