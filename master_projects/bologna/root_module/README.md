@@ -4,5 +4,5 @@
 
 - **hands-on_1**: "RooFit"
 - **hands-on_2**: "RooFit Workspace, Working with Likelihood, Fitting Errors"
-- **hands-on_3**:
+- **hands-on_3**: "Systematics, Control regions. ROOSTATS"
 - **hands-on_4**:
