@@ -5,4 +5,5 @@
 ### "sda-nsnp-lab-tutorial-2024-25-2.pdf"
 
 ## Content
-- 
+- **data/**:
+- **outputs/**:
