@@ -5,5 +5,5 @@
 ### "sda-nsnp-lab-tutorial-2024-25-2.pdf"
 
 ## Content
-- **data/**:
-- **outputs/**:
+- **data/**: folder containing the datasets used for the exercises
+- **outputs/**: folder containing the plots created by the scripts
