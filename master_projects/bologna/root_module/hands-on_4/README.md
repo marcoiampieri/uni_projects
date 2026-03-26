@@ -11,6 +11,8 @@
   * atlas-higgs-challenge-2014-v2-sig.root: _.root_ file with the information concerning the signal data
 - **input_variables_dist.png**: picture containing the graphs with initial variables' distributions
 - **prep.cpp**: script used to create the _.root_ files and to read the input dataset
+- **tmva_training.cpp**: main script used for the analysis
+  
 ## Note
 #### Some files could not be uploaded due to their excessive size, in particular:
 
