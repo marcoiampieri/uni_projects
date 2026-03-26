@@ -9,6 +9,7 @@
   * weights/: containing the _.C_ files for the classifiers used to conduct the analysis
   * atlas-higgs-challenge-2014-v2-bkg.root: _.root_ file with the information concerning the background data
   * atlas-higgs-challenge-2014-v2-sig.root: _.root_ file with the information concerning the signal data
+- **input_variables_dist.png**: picture containing the graphs with initial variables' distributions
 - 
 ## Note
 #### Some files could not be uploaded due to their excessive size, in particular:
