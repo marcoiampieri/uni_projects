@@ -7,3 +7,6 @@
 ## Content
 - **data/**: folder containing the datasets used for the exercises
 - **outputs/**: folder containing the plots created by the scripts
+- **ex_1.cpp**:
+- **ex_3.cpp**:
+- **ex_3_minos.cpp**: 
