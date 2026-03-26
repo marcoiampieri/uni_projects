@@ -4,3 +4,5 @@
 #### The description of each exercise and its task can be found in:
 ### "sda-nsnp-lab-tutorial-2024-25-2.pdf"
 
+## Content
+- 
