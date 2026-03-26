@@ -5,7 +5,7 @@
 ### "sda-nsnp-lab-tutorial-2024-25-3.pdf"
 
 ## Content
-- **data/**:
-- **outputs/**:
+- **data/**: folder containing the datasets used for the exercises
+- **outputs/**: folder containing the _.root_ files, plots and graphs created by the scripts
 - **ex_1_composite_LHCB.cpp**:
 - **ex_2_H_to_4l.cpp**:
