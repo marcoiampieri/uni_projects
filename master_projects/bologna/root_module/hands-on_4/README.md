@@ -4,7 +4,12 @@
 ### "sda-nsnp-lab-tutorial-2024-25-4.pdf"
 
 ## Content 
-
+- **outputs/**
+  * plots/: containing all the plots and graphs produced by the script
+  * weights/: containing the _.C_ files for the classifiers used to conduct the analysis
+  * atlas-higgs-challenge-2014-v2-bkg.root: _.root_ file with the information concerning the background data
+  * atlas-higgs-challenge-2014-v2-sig.root: _.root_ file with the information concerning the signal data
+- 
 ## Note
 #### Some files could not be uploaded due to their excessive size, in particular:
 
