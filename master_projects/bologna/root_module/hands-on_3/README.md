@@ -7,5 +7,5 @@
 ## Content
 - **data/**: folder containing the datasets used for the exercises
 - **outputs/**: folder containing the _.root_ files, plots and graphs created by the scripts
-- **ex_1_composite_LHCB.cpp**:
-- **ex_2_H_to_4l.cpp**:
+- **ex_1_composite_LHCB.cpp**: script used for the first exercise of the session
+- **ex_2_H_to_4l.cpp**: script used for the second exercise of the session
