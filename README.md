@@ -30,7 +30,7 @@
 ## Note:
 Some of the files and pieces of code (especially those created during the years of my Bachelor's studies) are written in Italian.  
 
-As of March $23^{rd}$ 2026, I'm still in the process of sorting and uploading my projects, mainly:
+As of March $30^{rd}$ 2026, I'm still in the process of sorting and uploading my projects, mainly:
 - [x] Update the bachelor's labs' README files 
 - [x] Add some of the data and outputs for the bachelor's labs
 - [x] Update the clermont-ferrand/ folder
@@ -38,5 +38,5 @@ As of March $23^{rd}$ 2026, I'm still in the process of sorting and uploading my
 - [x] Update the README files for the clermont-ferrand/ folder
 - [x] Add the Bologna semester root folder
 - [x] Update the Bologna semester root folder
-- [ ] Update the Bologna semester root folder README file
+- [x] Update the Bologna semester root folder README file
 
