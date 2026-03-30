@@ -1,6 +1,6 @@
 # uni_projects
 
-### This repository contains some of the projects I worked on during my university studies, from both my Bachelor's and Master's years.
+### This repository contains some of the projects I worked on during my university years, from both my Bachelor's and Master's studies.
 
 ## Structure
 
