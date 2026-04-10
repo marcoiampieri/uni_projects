@@ -14,7 +14,7 @@
 - **setting_functions.hpp**: where the functions used to set the initial configuration are declared
 - **setting_functions.cpp**: where these functions are implemented, allowing to set parameters like the population's dimension, the duration of the pandemic, etc.
 - **pandemic_test.cpp**: where some simple configurations are tested using _doctest.h_
-- **main_pandemic.cpp**: where the _print_ functions is implemented, showing population grid in the output; _Susceptibles_ are represented with the character "**@**", _Infected_ with "*" and _Removed_ with an empty cell
+- **main_pandemic.cpp**: where the _print_ functions is implemented, showing the population grid in the output; _Susceptibles_ are represented with the character "**@**", _Infected_ with "*" and _Removed_ with an empty cell
 
 
 
