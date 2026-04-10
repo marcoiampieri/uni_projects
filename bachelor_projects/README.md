@@ -2,6 +2,6 @@
 
 ## Structure
 - **exam_project/**: the final project for our first year's _C++_ course
-- **game_of_life/**: a project carried out during _hands-on_ sessions for the _C++_ course
+- **game_of_life/**: a project carried out during some of the _C++_ course's _hands-on_ sessions 
 - **lab_3rd_year/**: some scripts used to analyze data gathered during lab experiments in our third year's laboratory course
 - **root_lab_2nd_year/**: a project that was part of the grade for our second year's laboratory exam
